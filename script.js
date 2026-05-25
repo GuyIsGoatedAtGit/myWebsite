@@ -8,15 +8,11 @@ document.getElementById("btn2").onclick = () => {
 const secretBtn = document.getElementById("secretBtn");
 
 if (secretBtn) {
-  secretBtn.onclick = () => {
-    alert("Home clicked");
-  };
+  secretBtn.onclick = () => {};
 }
 
 const returnBtn = document.getElementById("returnBtn");
 
 if (returnBtn) {
-  returnBtn.onclick = () => {
-    alert("About clicked");
-  };
+  returnBtn.onclick = () => {};
 }
