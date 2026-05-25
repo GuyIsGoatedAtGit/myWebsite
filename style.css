@@ -4,7 +4,12 @@ body {
   text-align: center;
   margin-top: 100px;
 }
-button {
+#btn1 {
+  padding: 10px 20px;
+  font-size: 20px;
+  margin: 10px;
+}
+#btn2 {
   padding: 10px 20px;
   font-size: 20px;
   margin: 10px;
