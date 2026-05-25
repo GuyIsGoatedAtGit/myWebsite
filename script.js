@@ -8,3 +8,6 @@ document.getElementById("btn2").onclick = () => {
 document.getElementById("secretBtn").onclick = () => {
   alert("secret button");
 };
+document.getElementById("returnBtn").onclick = () => {
+  alert("secret button");
+};
