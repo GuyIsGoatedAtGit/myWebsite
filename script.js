@@ -5,9 +5,18 @@ document.getElementById("btn1").onclick = () => {
 document.getElementById("btn2").onclick = () => {
   alert("Second button");
 };
-document.getElementById("secretBtn").onclick = () => {
-  alert("secret button");
-};
-document.getElementById("returnBtn").onclick = () => {
-  alert("secret button");
-};
+const secretBtn = document.getElementById("secretBtn");
+
+if (secretBtn) {
+  secretBtn.onclick = () => {
+    alert("Home clicked");
+  };
+}
+
+const returnBtn = document.getElementById("returnBtn");
+
+if (returnBtn) {
+  returnBtn.onclick = () => {
+    alert("About clicked");
+  };
+}
