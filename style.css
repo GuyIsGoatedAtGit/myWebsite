@@ -14,16 +14,38 @@ body {
   font-size: 20px;
   margin: 10px;
 }
-#secretBtn {
+#secretBtn1 {
   position: absolute;
+  left: 400px;
+  top: 200px;
+
   width: 200px;
   height: 100px;
 
   opacity: 0;
+  border: none;
 
   cursor: pointer;
 }
-#returnBtn {
+#secretBtn2 {
+  position: absolute;
+  left: 200px;
+  top: 200px;
+
+  width: 200px;
+  height: 100px;
+
+  opacity: 0;
+  border: none;
+
+  cursor: pointer;
+}
+#returnBtn1 {
+  padding: 10px 20px;
+  font-size: 20px;
+  margin: 10px;
+}
+#returnBtn2 {
   padding: 10px 20px;
   font-size: 20px;
   margin: 10px;

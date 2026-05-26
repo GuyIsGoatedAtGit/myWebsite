@@ -5,14 +5,25 @@ document.getElementById("btn1").onclick = () => {
 document.getElementById("btn2").onclick = () => {
   alert("Second button");
 };
-const secretBtn = document.getElementById("secretBtn");
+const secretBtn1 = document.getElementById("secretBtn1");
 
-if (secretBtn) {
-  secretBtn.onclick = () => {};
+if (secretBtn1) {
+  secretBtn1.onclick = () => {};
 }
 
-const returnBtn = document.getElementById("returnBtn");
+const returnBtn1 = document.getElementById("returnBtn1");
 
-if (returnBtn) {
-  returnBtn.onclick = () => {};
+if (returnBtn1) {
+  returnBtn1.onclick = () => {};
+}
+const secretBtn2 = document.getElementById("secretBtn2");
+
+if (secretBtn2) {
+  secretBtn2.onclick = () => {};
+}
+
+const returnBtn2 = document.getElementById("returnBtn2");
+
+if (returnBtn2) {
+  returnBtn2.onclick = () => {};
 }
