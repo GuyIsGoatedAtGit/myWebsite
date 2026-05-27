@@ -4,20 +4,27 @@ body {
   text-align: center;
   margin-top: 100px;
 }
-#btn1 {
-  padding: 10px 20px;
-  font-size: 20px;
-  margin: 10px;
+#Btn1 {
+  position: absolute;
+  width: 200px;
+  height: 100px;
+
+  background: transparent;
+  border: none;
+  opacity: 0;
+
+  cursor: pointer;
 }
-#btn2 {
-  padding: 10px 20px;
-  font-size: 20px;
-  margin: 10px;
-}
-#btn3 {
-  padding: 10px 20px;
-  font-size: 20px;
-  margin: 10px;
+#Btn2 {
+  position: absolute;
+  width: 200px;
+  height: 100px;
+
+  background: transparent;
+  border: none;
+  opacity: 0;
+
+  cursor: pointer;
 }
 #returnBtn1 {
   padding: 10px 20px;
