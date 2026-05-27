@@ -1,12 +1,3 @@
-document.getElementById("btn1").onclick = () => {
-  console.log("button 1 clicked");
-  alert("First button");
-};
-
-document.getElementById("btn2").onclick = () => {
-  console.log("button 2 clicked");
-  alert("Second button");
-};
 const secretBtn1 = document.getElementById("secretBtn1");
 
 if (secretBtn1) {
