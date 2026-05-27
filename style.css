@@ -6,24 +6,29 @@ body {
 }
 #Btn1 {
   position: absolute;
+
+  left: 100px;
+  top: 100px;
+
   width: 200px;
   height: 100px;
 
-  background: transparent;
-  border: none;
   opacity: 0;
-
+  border: none;
   cursor: pointer;
 }
+
 #Btn2 {
   position: absolute;
+
+  left: 400px;
+  top: 100px;
+
   width: 200px;
   height: 100px;
 
-  background: transparent;
-  border: none;
   opacity: 0;
-
+  border: none;
   cursor: pointer;
 }
 #returnBtn1 {
