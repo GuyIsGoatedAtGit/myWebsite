@@ -4,7 +4,7 @@ body {
   text-align: center;
   margin-top: 100px;
 }
-#Btn1 {
+/*#Btn1 {
   position: absolute;
 
   left: 100px;
@@ -44,6 +44,35 @@ body {
   opacity: 0;
   border: none;
   cursor: pointer;
+}*/
+#Btn1 {
+  position: absolute;
+
+  left: 600px;
+  top: 100px;
+  padding: 10px 20px;
+  font-size: 20px;
+  margin: 10px;
+}
+
+#Btn2 {
+  position: absolute;
+
+  left: 600px;
+  top: 100px;
+  padding: 10px 20px;
+  font-size: 20px;
+  margin: 10px;
+}
+
+#Btn3 {
+  position: absolute;
+
+  left: 600px;
+  top: 100px;
+  padding: 10px 20px;
+  font-size: 20px;
+  margin: 10px;
 }
 #returnBtn1 {
   padding: 10px 20px;
