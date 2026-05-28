@@ -43,11 +43,8 @@ body {
 
   /*opacity: 0;
   border: none;
-<<<<<<< HEAD
   cursor: pointer;*/
-=======
-  cursor: pointer;
-}*/
+}
 #Btn1 {
   position: absolute;
 
@@ -76,7 +73,6 @@ body {
   padding: 10px 20px;
   font-size: 20px;
   margin: 10px;
->>>>>>> 805dce830e6d86af3ab95b4acdd5746a5313cf93
 }
 #returnBtn1 {
   padding: 10px 20px;
