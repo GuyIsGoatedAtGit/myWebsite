@@ -4,7 +4,7 @@ body {
   text-align: center;
   margin-top: 100px;
 }
-#Btn1 {
+/*#Btn1 {
   position: absolute;
 
   left: 100px;
@@ -43,7 +43,40 @@ body {
 
   /*opacity: 0;
   border: none;
+<<<<<<< HEAD
   cursor: pointer;*/
+=======
+  cursor: pointer;
+}*/
+#Btn1 {
+  position: absolute;
+
+  left: 600px;
+  top: 100px;
+  padding: 10px 20px;
+  font-size: 20px;
+  margin: 10px;
+}
+
+#Btn2 {
+  position: absolute;
+
+  left: 600px;
+  top: 100px;
+  padding: 10px 20px;
+  font-size: 20px;
+  margin: 10px;
+}
+
+#Btn3 {
+  position: absolute;
+
+  left: 600px;
+  top: 100px;
+  padding: 10px 20px;
+  font-size: 20px;
+  margin: 10px;
+>>>>>>> 805dce830e6d86af3ab95b4acdd5746a5313cf93
 }
 #returnBtn1 {
   padding: 10px 20px;
