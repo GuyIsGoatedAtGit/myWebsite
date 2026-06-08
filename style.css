@@ -1,5 +1,11 @@
 body {
-  background: #c6cacc;
+  background-image: url("images/aaa.jpg");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  min-height: 100vh;
   color: rgb(00, 00, 00);
   text-align: center;
   margin-top: 100px;
